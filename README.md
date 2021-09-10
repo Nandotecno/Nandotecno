@@ -7,8 +7,19 @@ Para aprimorar os conhecimentos com a graduação em Contabilidade, busco com a 
   <img height = "180em" src = "https://github-readme-stats.vercel.app/api?username=Nandotecno&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
   <img height = "180em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Nandotecno&layout=compact&langs_count=7&theme=dark" />
 </div>
-- usa : Platane / snk @ master
+
+ - usa : Platane / snk @ master
         id : snake-gif
+        com :
+          github_user_name : Nandotecno
+          svg_out_path : dist / github-Contribution-grid-snake.svg
+      - usa : crazy-max/ghaction-github-pages@v2.1.3
+        com :
+          target_branch : output
+          build_dir : dist
+        env :
+          GITHUB_TOKEN : $ {{secrets.GITHUB_TOKEN}}
+  
 <!--
 **Nandotecno/Nandotecno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
