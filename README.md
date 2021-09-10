@@ -1,5 +1,7 @@
-### Hi there 👋
+### Olá, tudo bem. 👋
+Meu nome é  Fernando Cruz, formado em Ciências Contábeis pela Universidade Metropolitana de Santos, atualmente estou terminando os estudos em Engenharia da Computação pela Faculdade Anhanguera Santo André.
 
+Para aprimorar os conhecimentos com a graduação em Contabilidade, busco com a formação em Engenharia da Computação conciliar a criação de sistemas com o ajuste de planilhas, automação de dados gerenciais com a elaboração de relatórios e métricas de apuração, assim apresentar dinamismo na compilação das informações.
 <!--
 **Nandotecno/Nandotecno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
