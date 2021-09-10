@@ -2,6 +2,12 @@
 Meu nome é  Fernando Cruz, formado em Ciências Contábeis pela Universidade Metropolitana de Santos, atualmente estou terminando os estudos em Engenharia da Computação pela Faculdade Anhanguera Santo André.
 
 Para aprimorar os conhecimentos com a graduação em Contabilidade, busco com a formação em Engenharia da Computação conciliar a criação de sistemas com o ajuste de planilhas, automação de dados gerenciais com a elaboração de relatórios e métricas de apuração, assim apresentar dinamismo na compilação das informações.
+
+<div>
+  <a href="https://github.com/rafaballerini">
+  <img height = "180em" src = "https://github-readme-stats.vercel.app/api?username=rafaballerini&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
+  <img height = "180em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=rafaballerini&layout=compact&langs_count=7&theme=dracula" />
+</div>
 <!--
 **Nandotecno/Nandotecno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
