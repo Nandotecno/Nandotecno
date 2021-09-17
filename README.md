@@ -8,7 +8,6 @@ Para aprimorar os conhecimentos com a graduação em Contabilidade, busco com a 
   <img height = "180em" src = "https://github-readme-stats.vercel.app/api?username=Nandotecno&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
   <img height = "180em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Nandotecno&layout=compact&langs_count=7&theme=dark" />
 </div>
-<!--<a class="navbar-brand" href="#">Nandotecno Solutions</a>
 **Nandotecno/Nandotecno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
