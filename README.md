@@ -1,5 +1,5 @@
 
-<img height = "180em" src =qrcodelandingpag.jpeg/> 
+<img height = "180em" src =qrcodelandingpag.jpeg/><img height = "180em" src= Engenhariadascoisas.gif />
    
  ### Olá, tudo bem. 👋👋👋
 Meu nome é Fernando Cruz, formado em Ciências Contábeis pela Universidade Metropolitana de Santos,  graduando em Engenharia da Computação pela Faculdade Anhanguera Santo André.
