@@ -7,7 +7,7 @@ Meu nome é Fernando Cruz, formado em Ciências Contábeis pela Universidade Met
 
 Para aprimorar os conhecimentos matemáticos e financeiros, busco com os estudos voltados para programação realizar a criação de sistemas, efetuar a modelagem de banco de dados, concretizar o ajuste de sistemas, automação de dados gerenciais para assim apresentar dinamismo na compilação das informações.
 
-Conhecimento prático nas plataformas VSCode, NetBeans, Workbench e Dreamweaver, ênfase na codificação em Java e Java Script, criação de estrutura com Html em conjunto com Css utilizando ReactJs e NextJs, Python e PHP para a criação de projetos através de frameworks como Pandas, Django, Flask, Web2py e outas funcionalidades.
+ConhecimentoConhecimento prático nas plataformas VSCode, NetBeans, Workbench e Dreamweaver, ênfase na codificação em Java e Java Script, criação de estrutura com Html em conjunto com Css utilizando ReactJs e NextJs, Python e PHP para a criação de projetos através de frameworks como Pandas, Django, Flask, Web2py e outas funcionalidades. 
 
 
 <div>
