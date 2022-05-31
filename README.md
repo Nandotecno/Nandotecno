@@ -3,12 +3,11 @@
    
 👋👋👋 Olá, tudo bem. 👋👋👋
 
-Meu nome é Fernando Cruz, formado em Ciências Contábeis pela Universidade Metropolitana de Santos, graduando em Engenharia da Computação pela Faculdade Anhanguera Santo André . 
+Meu nome é Fernando Cruz, formado em Ciências Contábeis pela Universidade Metropolitana de Santos, graduando em Engenharia da Computação pela Faculdade Anhanguera Santo André.
 
-Para aprimorar os conhecimentos matemáticos e financeiros, busco com os estudos voltados para programação realizar a criação de sistemas, efetuar a modelagem de banco de dados, concretizar o ajuste de sistemas, automação de dados gerenciais para assim apresentar dinamismo na compilação das informações.
+Para aprimorar os conhecimentos matemáticos e financeiros, busco com os estudos de criação de sistemas, para realizar a elaboração da modelagem de banco de dados de sistemas, automatização para apresentar a modelagem de banco de dados de gestão, automatização e assim apresentar a modelagem de banco de dados de gerenciamento de dados na compilação das informações.
 
-ConhecimentoConhecimento prático nas plataformas VSCode, NetBeans, Workbench e Dreamweaver, ênfase na codificação em Java e Java Script, criação de estrutura com Html em conjunto com Css utilizando ReactJs e NextJs, Python e PHP para a criação de projetos através de frameworks como Pandas, Django, Flask, Web2py e outas funcionalidades. 
-
+Conhecimento prático nas plataformas VSCode, NetBeans, Workbench e Dreamweaver, ênfase no conhecimento em Java e Java Script, criação de estrutura com Html em conjunto com Cs usando ReactJs e NextJs, Python e PHP para a criação de projetos de frameworks como Pandas, Django , Flask, Web2py e outras funcionalidades.
 
 <div>
   <a href="https://github.com/Nandotecno">
