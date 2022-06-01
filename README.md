@@ -5,7 +5,7 @@
 
 Meu nome é Fernando Cruz, formado em Ciências Contábeis pela Universidade Metropolitana de Santos, graduando em Engenharia da Computação pela Faculdade Anhanguera Santo André.
 
-Para aprimorar os conhecimentos matemáticos e financeiros, busco com os estudos em programação, efetuar a criação de sistemas, realizar a elaboração da modelagem de banco de dados de sistemas, gerenciar a modelagem de banco de dados de gestão, para assim apresentar agilidade na compilação das informações.
+Para aprimorar os conhecimentos matemáticos e financeiros, busco com os estudos em programação efetuar a elaboração de sistemas, realizar a modelagem de banco de dados, criar projetos de gestão, para assim apresentar agilidade na compilação das informações.
 
 Conhecimento prático nas plataformas VSCode, NetBeans, Workbench e Dreamweaver, ênfase no conhecimento em Java e Java Script, criação de estrutura com Html em conjunto com Cs usando ReactJs e NextJs, Python e PHP para a criação de projetos de frameworks como Pandas, Django , Flask, Web2py e outras funcionalidades.
 
