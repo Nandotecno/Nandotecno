@@ -7,7 +7,7 @@ Meu nome é Fernando Cruz, formado em Ciências Contábeis pela Universidade Met
 
 Para aprimorar os conhecimentos matemáticos e financeiros, busco com os estudos em programação efetuar a elaboração de sistemas, realizar a modelagem de banco de dados, criar projetos de gestão, para assim apresentar agilidade na compilação das informações.
 
-Conhecimento prático nas plataformas VSCode, NetBeans, Workbench e Dreamweaver, ênfase no desenvolvimento em Java e Java Script, criação de estrutura com Html em conjunto com Css usando ReactJs e NextJs, Python e PHP para a criação de aplicações com frameworks como Pandas, Django , Flask, Web2py e outras funcionalidades.
+prática nas plataformas VSCode, NetBeans, Workbench e Dreamweaver, ênfase no desenvolvimento em Java e Java Script, criação de estrutura com Html em conjunto com Css usando ReactJs e NextJs, Python e PHP para a criação de aplicações com frameworks como Pandas, Django , Flask, Web2py e outras funcionalidades.
 
 <div>
   <a href="https://github.com/Nandotecno">
