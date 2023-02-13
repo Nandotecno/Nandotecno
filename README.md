@@ -3,7 +3,7 @@
    
 👋👋👋 Olá, tudo bem. 👋👋👋
 
-Meu nome é Fernando Cruz, formado em Ciências Contábeis pela Universidade Metropolitana de Santos, graduando em Engenharia da Computação pela Faculdade Anhanguera Santo André.
+Meu nome é Fernando Cruz, formado em Ciências Contábeis pela Universidade Metropolitana de Santos, graduado em Engenharia da Computação pela Faculdade Anhanguera Santo André.
 
 Para aprimorar os conhecimentos matemáticos e financeiros, busco com os estudos em programação efetuar a elaboração de sistemas, realizar a modelagem de banco de dados, criar projetos de gestão, para assim apresentar agilidade na compilação das informações.
 
