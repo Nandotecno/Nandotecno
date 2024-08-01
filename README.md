@@ -11,6 +11,8 @@ Prática nas plataformas VSCode, NetBeans, Workbench e Dreamweaver, ênfase no d
 
 Processos de ETL com a realização de ajustes de pacotes, extração de tabelas e uploads, incluindo a inserção de valores distintos e utilização de comandos como cursor.execute.
 
+Ampla experiência em desenvolvimento e análise de dados, destacando-se no uso de Power BI, Power Apps e Power Automate em nível avançado, além de proficiência em DAX. Possuo sólido conhecimento em SQL Server e Oracle Database, com ênfase em modelagem de dados, normalização de tabelas e Data Cleansing. Experiência em processos de ETL e Integration Services, utilizando Data Tools via Visual Studio. Possuo também conhecimento com a Família Git.
+
 <div>
   <a href="https://github.com/Nandotecno">
   <img height = "180em" src = "https://github-readme-stats.vercel.app/api?username=Nandotecno&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
