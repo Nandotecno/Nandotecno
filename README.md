@@ -1,4 +1,4 @@
-<img height = "170em" src= Engenhariadascoisas.gif/>   <img height = "180em" src =Código QR.site.jpeg/>
+<img height = "170em" src= Engenhariadascoisas.gif/>   <img height = "180em" src =Qr.code.site.jpeg/>
 
    
 Olá, tudo bem.
