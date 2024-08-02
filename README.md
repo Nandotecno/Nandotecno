@@ -15,6 +15,6 @@ Ampla experiência em desenvolvimento e análise de dados, destacando-se no uso 
 
 <div>
   <a href="https://github.com/Nandotecno">
-  <img height = "180em" src = "https://github-readme-stats.vercel.app/api?username=Nandotecno&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
-  <img height = "180em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Nandotecno&layout=compact&langs_count=7&theme=dark" />
+  <img height = "180em" src = "https://github-readme-stats.vercel.app/api?username=Nandotecno&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height = "180em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Nandotecno&layout=compact&langs_count=7&theme=dark"/>
 </div>
