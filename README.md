@@ -3,7 +3,7 @@
    
 Olá, tudo bem.
 
-Meu nome é Fernando Cruz, formado em Ciências Contábeis pela Universidade Metropolitana de Santos, graduado em Engenharia da Computação pela Faculdade Anhanguera Santo André, Professor de Ensino Superior e Ensino Técnico direcionados para área de técnologia da informação, gerenciamento de banco de dados, contabilidade, economia e gestão de marketing digital.
+Meu nome é Fernando Cruz, formado em Ciências Contábeis pela Universidade Metropolitana de Santos, graduado em Engenharia da Computação pela Faculdade Anhanguera Santo André, Professor de Ensino Superior e Ensino Técnico direcionados para as áreas de técnologia da informação, gerenciamento de banco de dados, contabilidade, economia, gestão de marketing digital, neuropsicopedagogia e neuropsicologia.
 
 Para aprimorar os conhecimentos matemáticos e financeiros, busco com os estudos em programação efetuar a elaboração de sistemas, realizar a modelagem de banco de dados, criar projetos de gestão, para assim apresentar agilidade na compilação das informações.
 
